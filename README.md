@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🔭 I’m currently working on machine learning research in my spare time. I'm also looking at ways to improve machine learning inference in battle-tested production systems.
+- 🌱 I’m currently learning Golang, Kotlin and Rust
+- 💬 Ask me about anything at all!
+- 📫 How to reach me: Simply @ me by raising an issue in [my personal repository](https://github.com/chipmunk-pixel/chipmunk-pixel/)
+- ⚡ Fun fact: I believe R is better than Python. 
