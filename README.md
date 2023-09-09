@@ -24,7 +24,7 @@ My research code:
 - [TreeGrad](https://github.com/8bit-pixies/TreeGrad): Differential Decision Trees based on my research paper
 - [Diverse Online Feature Selection](https://github.com/8bit-pixies/diverse-online-feature-selection): Diverse Feature Selection using Determinantal Point Processes based on my research
 - [Multi-Agent Reinforcement Learning Toolkit](https://github.com/8bit-pixies/marl-offline-coordination): My PhD research code with various implementation of multi-agent reinforcement learning including LICA, QCGraph, MARQ, QMIX, and more...
-- [Online GentleBoost](https://github.com/chipmunk-pixel/online-gentleboost): The online variation of gentle boost with some benchmarks
+- [Online GentleBoost](https://github.com/chipmunk-pixel/online-gentleboost): The online variation of Gentleboost with some benchmarks
 
 My ML Algorithm implementations and/or tutorials:
 
