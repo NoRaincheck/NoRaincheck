@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on machine learning research in my spare time. I'm also looking at ways to improve machine learning inference in battle-tested production systems.
 - 🌱 I’m currently learning Golang, Kotlin and Rust
-- 💬 Ask me about anything at all!
 - 📫 How to reach me: Simply @ me by raising an issue in [my personal repository](https://github.com/chipmunk-pixel/chipmunk-pixel/)
 
 My research code:
@@ -35,3 +34,7 @@ My ML Algorithm implementations and/or tutorials:
 - [Hoeffding Trees](https://github.com/8bit-pixies/Hoeffding-Trees): A minimal implemention of Hoeffding trees with visualizations to understand how they work
 - [Feature Rich Encodings](https://github.com/8bit-pixies/feature-rich-encoding): An implementation of feature rich encodings for NLP applications
 
+My foray into parsers and compilers:
+
+- [Ramble](https://github.com/8bit-pixies/Ramble): A combinatory parser for the R programming language
+- [Stan](https://github.com/8bit-pixies/Stan): A SAS transcompiler to Python for the SAS programming language
