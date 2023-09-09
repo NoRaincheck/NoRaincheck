@@ -33,4 +33,5 @@ My ML Algorithm implementations and/or tutorials:
 - [Scene Completion](https://github.com/8bit-pixies/Scene-Completion): An implementation of "Scene Completion Using Millions of Photographs"
 - [Graph Differential Pooling](https://github.com/8bit-pixies/graph-differential-pooling): A short tutorial/implementation of graph differential pooling to understand how it works
 - [Hoeffding Trees](https://github.com/8bit-pixies/Hoeffding-Trees): A minimal implemention of Hoeffding trees with visualizations to understand how they work
+- [Feature Rich Encodings](https://github.com/8bit-pixies/feature-rich-encoding): An implementation of feature rich encodings for NLP applications
 
