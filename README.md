@@ -1,23 +1,7 @@
 ### Hi there 👋
 
-<!--
-**chipmunk-pixel/chipmunk-pixel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 - 🔭 I’m currently working on machine learning research in my spare time. I'm also looking at ways to improve machine learning inference in battle-tested production systems.
 - 🌱 I’m currently learning Golang, Kotlin and Rust
-    - [Decision Engine](https://github.com/8bit-pixies/decision-engine) with Rust and Python bindings
 - 📫 How to reach me: Simply @ me by raising an issue in [my personal repository](https://github.com/chipmunk-pixel/chipmunk-pixel/)
 
 <!-- **My research code:**
@@ -27,6 +11,10 @@ Here are some ideas to get you started:
 - [Multi-Agent Reinforcement Learning Toolkit](https://github.com/8bit-pixies/marl-offline-coordination): My PhD research code with various implementation of multi-agent reinforcement learning including LICA, QCGraph, MARQ, QMIX, and more...
 - [Online GentleBoost](https://github.com/chipmunk-pixel/online-gentleboost): The online variation of Gentleboost with some benchmarks
 -->
+
+**Recent Projects**
+
+- [Decision Engine](https://github.com/8bit-pixies/decision-engine) with Rust and Python bindings
 
 **My ML Algorithm implementations and/or tutorials:**
 
