@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 
 - 🔭 I’m currently working on machine learning research in my spare time. I'm also looking at ways to improve machine learning inference in battle-tested production systems.
 - 🌱 I’m currently learning Golang, Kotlin and Rust
+    - [Decision Engine](https://github.com/8bit-pixies/decision-engine) with Rust and Python bindings
 - 📫 How to reach me: Simply @ me by raising an issue in [my personal repository](https://github.com/chipmunk-pixel/chipmunk-pixel/)
 
 My research code:
