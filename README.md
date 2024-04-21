@@ -15,6 +15,7 @@
 **Recent Projects**
 
 - [Decision Engine](https://github.com/8bit-pixies/decision-engine) with Rust and Python bindings
+- [Sortie](https://pypi.org/project/sortie/) an opinionated pyproject.toml formatter written in Rust
 
 **My ML Algorithm implementations and/or tutorials:**
 
