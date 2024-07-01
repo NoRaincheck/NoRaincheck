@@ -19,7 +19,7 @@
 
 **My ML Algorithm implementations and/or tutorials:**
 
-I am one of the original authors of [scikit-learn's category encoders](https://github.com/scikit-learn-contrib/category_encoders)
+I am one of the original authors of [scikit-learn's category encoders](https://github.com/scikit-learn-contrib/category_encoders) and [jupyterlab-variableInspector](https://github.com/jupyterlab-contrib/jupyterlab-variableInspector)
 
 - [Crank ML](https://github.com/chipmunk-pixel/crank-ml): What if scikit-learn was differentiable? Implementations of decision trees, linear models, decomposition, preprocessing all in pytorch
 - [Scene Completion](https://github.com/8bit-pixies/Scene-Completion): An implementation of "Scene Completion Using Millions of Photographs"
