@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on machine learning research in my spare time. I'm also looking at ways to improve machine learning inference in battle-tested production systems.
-- 🌱 I’m currently learning Golang, Kotlin and Rust
+- 🌱 I’m currently learning Golang and Rust
 - 📫 How to reach me: Simply @ me by raising an issue in [my personal repository](https://github.com/NoRaincheck/NoRaincheck)
 
 <!-- **My research code:**
